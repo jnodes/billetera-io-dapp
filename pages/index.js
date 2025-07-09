@@ -318,7 +318,7 @@ const BilleteraIO = () => {
                   </div>
                   <div className="flex justify-between text-sm">
                     <span className="text-white/60">Price Impact</span>
-                    <span className="text-green-400">< 0.01%</span>
+                    <span className="text-green-400">&lt; 0.01%</span>
                   </div>
                 </div>
 
